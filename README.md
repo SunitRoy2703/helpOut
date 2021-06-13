@@ -1,8 +1,7 @@
 # helpOut🙋🏻‍♂️
 
 A bridge between medical help seekers and helpers, in time of this medical collapse.
-A app where people can post about their medical emergency,
-And people who have medical resources can post about their availability.
+A simple app where people can search about their medical emergency.
 
 # App WorkFlow 📲
 <p>
